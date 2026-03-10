@@ -1,29 +1,23 @@
-# TokyoNight Moon (Lazy)
+<!-- markdownlint-disable no-inline-html  -->
+<!-- markdownlint-disable first-line-heading  -->
 
-Bringing the elite **LazyVim** aesthetic seamlessly into Visual Studio Code.
+<p align="center">
+    <img src="icon.png" width="128px" />
+    <h1 align="center">TokyoNight Moon (Lazy) for VS Code</h1>
+    <p align="center">
+        The elite <a href="https://github.com/folke/tokyonight.nvim">TokyoNight</a> aesthetic, meticulously perfected for the <a href="http://code.visualstudio.com">VS Code</a> UI.
+    </p>
+    <p align="center">
+        <img src="screenshot.png" width="80%" />
+    </p>
+</p>
 
-This isn't just another port. **TokyoNight Moon (Lazy)** is meticulously hand-tuned to ensure high visual parity with the legendary Neovim setup, featuring deep syntax highlighting refinements and a custom UI layout.
+Don't get me wrong: TokyoNight is an awesome theme, but some of the decisions that were made for implementing it on VS Code didn't please me, to be honest. This theme focuses on bringing the uniform, subtle, and high-parity look and feel that the original LazyVim TokyoNight palette deserves.
 
-## ✨ Premium Features
+## Install
 
-### 🎯 High-Parity Syntax Highlighting
-Experience elite-level color accuracy across your favorite languages:
-- **C++**: Refined `std::` support, stream operators, and semantic-level precision.
-- **Python**: Custom targeting for f-strings, class definitions, and object properties.
-- **WebDev (HTML/JS/TS/CSS)**: Balanced tag differentiation, bolded structure, and soothing property palettes.
-- **Markdown**: A first-class citizen with bolded headers, distinct list styling, and readable code blocks.
+You can find this extension by searching for **"TokyoNight Moon (Lazy)"** in the VS Code Extensions tab or by installing the `.vsix` package manually.
 
-### 🌊 Soothing 3-Layer UI Depth
-The UI has been restructured to create a calm, focused environment:
-1. **Outer Frame**: Deeper tones for the Activity Bar and Title Bar.
-2. **Intermediate Panels**: A soothing transition in the SideBar and Explorer.
-3. **Editor Core**: The pure Moon Blue focus area.
+## License
 
-## 🚀 How to Use
-1. Install the extension.
-2. Open the Command Palette (`Ctrl+Shift+P`).
-3. Select **Color Theme**.
-4. Choose **TokyoNight Moon (Lazy)**.
-
----
-*Perfected for those who love the LazyVim feel but live in the VS Code ecosystem.*
+[MIT License](./LICENSE)

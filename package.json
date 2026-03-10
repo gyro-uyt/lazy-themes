@@ -2,8 +2,10 @@
   "name": "lazy-themes",
   "displayName": "Lazy Themes",
   "description": "A collection of soothing Neovim themes perfectly tailored for VS Code's UI.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "publisher": "gyro-uyt",
+  "repository": "https://github.com/gyro-uyt/lazy-themes",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },

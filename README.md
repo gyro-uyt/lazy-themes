@@ -2,13 +2,13 @@
 <!-- markdownlint-disable first-line-heading  -->
 
 <p align="center">
-    <img src="assets/icon.png" width="128px" />
+    <img src="https://raw.githubusercontent.com/gyro-uyt/lazy-themes/main/assets/icon.png" width="128px" />
     <h1 align="center">TokyoNight Moon (Lazy) for VS Code</h1>
     <p align="center">
         The elite <a href="https://github.com/folke/tokyonight.nvim">TokyoNight</a> aesthetic, meticulously perfected for the <a href="http://code.visualstudio.com">VS Code</a> UI.
     </p>
     <p align="center">
-        <img src="assets/screenshot.png" width="80%" />
+        <img src="https://raw.githubusercontent.com/gyro-uyt/lazy-themes/main/assets/screenshot.png" width="80%" />
     </p>
 </p>
 
